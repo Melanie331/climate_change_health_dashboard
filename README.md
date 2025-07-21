@@ -57,7 +57,7 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 
 | Main Page                                        | Selection Page                                      |
 |--------------------------------------------------|-----------------------------------------------------|
-| ![Main Page](assets/images/Main%20Page.png)      | ![Selection Page](assets/images/Selection%20Page.png) |
+| ![Main Page](assets/images/Main%20Page.png)      | ![Selection Page](assets/images/Select%20Page.png) |
 
 | Country Page Sample 1                            | Country Page Sample 2                               | Country Page Sample 3                               |
 |--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
