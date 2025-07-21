@@ -71,7 +71,7 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 ### Dashboard File (Power BI Template)
 
 Download the Power BI template:
-[Climate change and Health Impacts Dashboard.pbit](dashboard/Climate%20change%20and%20Health%20Impacts%20Dashboard.pbit)
+[Climate change and Health Impacts Dashboard.pbit](dashboard/Climate%20change%20and%20Health%20Impacts%20Dashboard.pbit.pbix)
 
 #### How to Use the Dashboard Template
 ##### Steps:
