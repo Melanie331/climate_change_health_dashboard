@@ -56,6 +56,7 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 | WA       | Nigeria                  | Nigeria_2021                  |   2021 |                   1 |                  0 |                0 |                          0 |                                      0 |                1 |
 | SA       | South Africa             | South Africa_2023             |   2023 |                   0 |                  0 |                0 |                          0 |                                      1 |                0 |
 
+
 ### Dashboard Preview
 
 | Main Page                                        | Selection Page                                      |
@@ -67,6 +68,18 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 | ![Country Page 1](assets/images/Country%20Page%201.png) | ![Country Page 2](assets/images/Country%20Page%202.png) | ![Country Page 3](assets/images/Country%20Page%203.png) |
 
 
+### Dashboard File (Power BI Template)
 
+Download the Power BI template:
+[Climate change and Health Impacts Dashboard.pbit](dashboard/Climate%20change%20and%20Health%20Impacts%20Dashboard.pbit)
+
+#### How to Use the Dashboard Template
+##### Steps:
+1. Download the `.pbit` file from the link above.
+2. Open Power BI Desktop.
+3. When prompted, provide the data source (if your template needs parameters).
+4. Explore filters, visualizations, and metrics directly.
+
+_Note: This template is offline-only. To publish or share interactively, you'll need a Power BI work account._
 
 
