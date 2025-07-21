@@ -1,9 +1,9 @@
 # climate_change_health_dashboard
 ### Teach Climate For Health Africa Project (Oath For Sustainability Network)
-The Climate Change Health BI dashboard visually indicates the effects of climate change on population health in all 54 african countries and regions as recorded through international and national climate reports as well as national adaptation plans between 2014 -2024 (10 years) in order to inform funding and ciriculum development for the Teach Climate for Health Africa Project.
+The Climate Change Health BI dashboard visually indicates the effects of climate change on population health in all 54 African countries and regions as recorded through international and national climate reports, as well as national adaptation plans between 2014 and 2024 (10 years) to inform funding and curriculum development for the Teach Climate for Health Africa Project.
 
 ### 1. Background
-The project aimed to address the critical gap in climate resilient healthcare systems and education/awareness in Africa by promoting climate-informed healthcare decision-making, enhancing climate-resilient health infrastructure, and supporting community resilience-building. By developing and implementing climate change curricula, training educators and promoting community based climate change initiatives. By fostering collaboration among climate, health and education stakeholders, the project contributes to the development of sustainable and climate-resilient healthcare and education systems, ultimately protecting the sustainable development, environment, health and well-being of vulnerable populations in Africa.
+The project aimed to address the critical gap in climate-resilient healthcare systems and education/awareness in Africa by promoting climate-informed healthcare decision-making, enhancing climate-resilient health infrastructure, and supporting community resilience-building. By developing and implementing climate change curricula, training educators and promoting community-based climate change initiatives. By fostering collaboration among climate, health and education stakeholders, the project contributes to the development of sustainable and climate-resilient healthcare and education systems, ultimately protecting the sustainable development, environment, health and well-being of vulnerable populations in Africa.
 
 ### 2. Data
 #### Information Table Sample
@@ -54,11 +54,16 @@ The project aimed to address the critical gap in climate resilient healthcare sy
 | SA       | South Africa             | South Africa_2023             |   2023 |                   0 |                  0 |                0 |                          0 |                                      1 |                0 |
 
 ### Climate & Health Dashboard Preview
-![Main Page](assets/images/Main Page.png)
-![Selection Page](assets/images/Selection Page.png)
-![Country Page Sample](assets/images/Country Page 1.png)
-![Country Page Sample](assets/images/Country Page 2.png)
-![Country Page Sample](assets/images/Country Page 3.png)
+
+| Main Page                                        | Selection Page                                      |
+|--------------------------------------------------|-----------------------------------------------------|
+| ![Main Page](assets/images/Main%20Page.png)      | ![Selection Page](assets/images/Selection%20Page.png) |
+
+| Country Page Sample 1                            | Country Page Sample 2                               | Country Page Sample 3                               |
+|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| ![Country Page 1](assets/images/Country%20Page%201.png) | ![Country Page 2](assets/images/Country%20Page%202.png) | ![Country Page 3](assets/images/Country%20Page%203.png) |
+
+
 
 
 
