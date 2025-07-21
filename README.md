@@ -53,7 +53,7 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 | WA       | Nigeria                  | Nigeria_2021                  |   2021 |                   1 |                  0 |                0 |                          0 |                                      0 |                1 |
 | SA       | South Africa             | South Africa_2023             |   2023 |                   0 |                  0 |                0 |                          0 |                                      1 |                0 |
 
-### Climate & Health Dashboard Preview
+### Dashboard Preview
 
 | Main Page                                        | Selection Page                                      |
 |--------------------------------------------------|-----------------------------------------------------|
