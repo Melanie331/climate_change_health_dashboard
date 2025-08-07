@@ -3,7 +3,7 @@
 The Climate Change Health BI dashboard visually indicates the effects of climate change on population health in all 54 African countries and regions as recorded through international and national climate reports, as well as national adaptation plans between 2014 and 2024 (10 years) to inform funding and curriculum development for the Teach Climate for Health Africa Project.
 
 ### 1. Background
-The project aimed to address the critical gap in climate-resilient healthcare systems and education/awareness in Africa by promoting climate-informed healthcare decision-making, enhancing climate-resilient health infrastructure, and supporting community resilience-building. By developing and implementing climate change curricula, training educators and promoting community-based climate change initiatives. By fostering collaboration among climate, health and education stakeholders, the project contributes to the development of sustainable and climate-resilient healthcare and education systems, ultimately protecting the sustainable development, environment, health and well-being of vulnerable populations in Africa.
+The project aimed to address the critical gap in climate-resilient healthcare systems and education in Africa by promoting climate-informed healthcare decision-making, enhancing climate-resilient health infrastructure, and supporting community resilience-building. By developing and implementing climate change curricula, training educators and promoting community-based climate change initiatives through fostering collaboration among climate, health and education stakeholders, the project contributes to the development of sustainable and climate-resilient healthcare and education systems, ultimately protecting the sustainable development, environment, health and well-being of vulnerable populations in Africa.
 
 ### 2. Data
 – Raw Excel workbook containing all sheets:  
@@ -68,18 +68,15 @@ The project aimed to address the critical gap in climate-resilient healthcare sy
 | ![Country Page 1](assets/images/Country%20Page%201.png) | ![Country Page 2](assets/images/Country%20Page%202.png) | ![Country Page 3](assets/images/Country%20Page%203.png) |
 
 
-### Dashboard File (Power BI Template)
+### Dashboard File
 
-Download the Power BI template:
+Download the Power BI file:
 [Climate change and Health Impacts Dashboard.pbit](dashboard/Climate%20change%20and%20Health%20Impacts%20Dashboard.pbit.pbix)
 
-#### How to Use the Dashboard Template
+#### How to view and interact with the Dashboard 
 ##### Steps:
-1. Download the `.pbit` file from the link above.
+1. Download the `Climate change and Health Impacts Dashboard.pbit` file from the link above.
 2. Open Power BI Desktop.
-3. When prompted, provide the data source (if your template needs parameters).
-4. Explore filters, visualizations, and metrics directly.
-
-_Note: This template is offline-only. To publish or share interactively, you'll need a Power BI work account._
+3. Import the `Climate change and Health Impacts Dashboard.pbit` file and view.
 
 
